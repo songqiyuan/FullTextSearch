@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11  -rdynamic CMakeFiles/IndexMain.dir/CJKSegmenter.cpp.o CMakeFiles/IndexMain.dir/Configuration.cpp.o CMakeFiles/IndexMain.dir/DictSegment.cpp.o CMakeFiles/IndexMain.dir/Hit.cpp.o CMakeFiles/IndexMain.dir/Lexeme.cpp.o CMakeFiles/IndexMain.dir/main.cpp.o  -o IndexMain 

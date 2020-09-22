@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11  -rdynamic CMakeFiles/IKDemo.dir/CJKSegmenter.cpp.o CMakeFiles/IKDemo.dir/Configuration.cpp.o CMakeFiles/IKDemo.dir/DictSegment.cpp.o CMakeFiles/IKDemo.dir/Hit.cpp.o CMakeFiles/IKDemo.dir/Lexeme.cpp.o CMakeFiles/IKDemo.dir/main.cpp.o  -o IKDemo 
